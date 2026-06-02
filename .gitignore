@@ -1,0 +1,6 @@
+*.env
+.env*
+credentials/
+secrets/
+*.json.bak
+service-account*.json
