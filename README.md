@@ -20,3 +20,4 @@ Telegram/WhatsApp → n8n AI Agent → Google Sheets + Calendar → Response to 
 
 ## Status
 MVP in development — Telegram functional, WhatsApp (Evolution API) pending.
+
